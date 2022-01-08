@@ -52,5 +52,5 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ---
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=Gradient)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=Gradient)
