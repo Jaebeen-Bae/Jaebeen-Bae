@@ -1,7 +1,7 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=SUDO%20BEEN&fontSize=90&desc=super%20dope%20developer%20Jaebeen&descAlignY=65)
-Welcome to Jaebeen's studio😉
+# Welcome to Jaebeen's studio😉
 ### 📚Tech Stack📚
 #### Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
