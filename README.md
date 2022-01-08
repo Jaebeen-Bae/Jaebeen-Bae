@@ -55,4 +55,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaebeen-Bae&theme=tokyonight)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=Have%20a%20nice%20Day&fontSize=70&reversal=true&section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=350&text=Have%20a%20nice%20Day&fontSize=70&reversal=true)
