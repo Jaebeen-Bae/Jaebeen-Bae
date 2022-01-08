@@ -53,4 +53,4 @@
 ---
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=Gradient&&bg_color=DEG)
