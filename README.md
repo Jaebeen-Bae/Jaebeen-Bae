@@ -54,10 +54,10 @@
 
 •••
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaebeen-Bae&theme=vue)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaebeen-Bae&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaebeen-Bae&theme=default)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaebeen-Bae&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaebeen-Bae&theme=default)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaebeen-Bae&theme=nord_bright)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaebeen-Bae&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaebeen-Bae&theme=nord_bright)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaebeen-Bae&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaebeen-Bae&theme=nord_bright)  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=150&reversal=true)
 </div>
