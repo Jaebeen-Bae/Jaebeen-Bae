@@ -59,7 +59,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaebeen-Bae&theme=default)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaebeen-Bae&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaebeen-Bae&theme=default)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&title_color=#74adc2&bg_color=#74adc2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaebeen-Bae)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=150&reversal=true)
 </div>
