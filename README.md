@@ -56,5 +56,5 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaebeen-Bae)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=150&reversal=false)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=150&reversal=true)
 </div>
