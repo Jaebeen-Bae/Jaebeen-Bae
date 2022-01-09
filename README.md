@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=SUDO%20BEEN&fontSize=120&desc=becoming%20super%20dope%20developer&descAlignY=65)
 # Welcome to Jaebeen's studio😉
 ### 📚Tech Stack📚
+### I've used at least once
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
