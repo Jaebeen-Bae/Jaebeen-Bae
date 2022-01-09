@@ -2,9 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=350&section=header&text=SUDO%20BEEN&fontSize=120&desc=becoming%20super%20dope%20developer&descAlignY=65)
 # Welcome to Jaebeen's studio😉
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaebeen-Bae&theme=tokyonight)
----
 ### 📚Tech Stack📚
 ### I've used at least once
 #### Languages
@@ -59,4 +56,6 @@
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaebeen-Bae&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaebeen-Bae&theme=tokyonight)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=250&text=Have%20a%20nice%20Day✨&fontSize=70)
