@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=SUDO%20BEEN&fontSize=90&desc=becoming%20super%20dope%20developer&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=SUDO%20BEEN&fontSize=90&desc=becoming%20super%20dope%20developer&descAlignY=70&fontAlignY=20)
 # Welcome to Jaebeen's studio😉
 ### 📚Tech Stack📚
 ### I've used at least once
