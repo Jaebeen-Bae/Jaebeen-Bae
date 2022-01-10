@@ -1,7 +1,6 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=240&section=header&text=SUDO%20BEEN&fontSize=100&desc=becoming%20super%20dope%20developer&descAlignY=60&fontAlignY=40)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaebeen-Bae%2F&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Welcome to Jaebeen's Diary😉
 ### 📚 Tech Stack 📚
 ### Techs that I've used at least once
@@ -55,7 +54,8 @@
 
 •••
 ---
-### 📈 Diary Analysis 📈
+### 📈 Diary Analysis 📈  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaebeen-Bae%2F&count_bg=%233DC87E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaebeen-Bae&theme=vue)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaebeen-Bae&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaebeen-Bae&theme=vue)  
